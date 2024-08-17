@@ -35,7 +35,7 @@ namespace DashboardWCF2Lib
                     client.DefaultRequestHeaders.Clear();
                     client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
 
-                    client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", "eyJrIjoiRk5JM055ZXN6a1FyVGNuVWV2b21SNldBVVBuUXZIUmsiLCJuIjoidXpheV9hcGkiLCJpZCI6MX0=");
+                    client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", "[API key]");
 
                     try
                     {
