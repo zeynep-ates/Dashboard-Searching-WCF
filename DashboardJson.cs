@@ -48,27 +48,23 @@ namespace DashboardWCF2Lib
                                 var outputResponse = response.Content.ReadAsStringAsync().Result;
                                 dashboardOutputModel = JsonConvert.DeserializeObject<System.Dynamic.ExpandoObject>(outputResponse);
                                 isSuccess = true;
-                                //resultOk();
                             }
                             catch (Exception responseEx)
                             {
                                 dashboardOutputModel = null;
                                 errorMessage = "Grafana apiden response okunurken serialize hatası. uId:" + dashboardUid;
-                                //_logger.Error(responseEx, OpResult.Message);
                             }
                         }
                         else
                         {
                             dashboardOutputModel = null;
                             errorMessage = "Grafana apiden okunurken response hatası. uId:" + dashboardUid + " " + response.ReasonPhrase;
-                            //_logger.Error(OpResult.Message);
                         }
                     }
                     catch (Exception postEx)
                     {
                         dashboardOutputModel = null;
                         errorMessage = "Grafana apiden get edilirken hata. uId:" + dashboardUid;
-                        //_logger.Error(postEx, OpResult.Message);
                     }
                 }
             }
@@ -76,7 +72,6 @@ namespace DashboardWCF2Lib
             {
                 dashboardOutputModel = null;
                 errorMessage = "Grafana apiye httpclient oluşturulurken. uId:" + dashboardUid;
-                //_logger.Error(clientEx, OpResult.Message);
             }
 
             return dashboardOutputModel;
