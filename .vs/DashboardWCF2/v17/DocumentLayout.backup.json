@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\zeyne\\source\\repos\\DashboardWCF2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB677FDD-54B2-42F3-804F-D11B9C1B8635}|DashboardWCF2Lib\\DashboardWCF2Lib.csproj|d:\\users\\zeyne\\source\\repos\\dashboardwcf2\\dashboardwcf2lib\\dashboardjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB677FDD-54B2-42F3-804F-D11B9C1B8635}|DashboardWCF2Lib\\DashboardWCF2Lib.csproj|solutionrelative:dashboardwcf2lib\\dashboardjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB677FDD-54B2-42F3-804F-D11B9C1B8635}|DashboardWCF2Lib\\DashboardWCF2Lib.csproj|D:\\Users\\zeyne\\source\\repos\\DashboardWCF2\\dashboardwcf2lib\\searchingclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB677FDD-54B2-42F3-804F-D11B9C1B8635}|DashboardWCF2Lib\\DashboardWCF2Lib.csproj|solutionrelative:dashboardwcf2lib\\searchingclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB677FDD-54B2-42F3-804F-D11B9C1B8635}|DashboardWCF2Lib\\DashboardWCF2Lib.csproj|D:\\Users\\zeyne\\source\\repos\\DashboardWCF2\\dashboardwcf2lib\\searchresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB677FDD-54B2-42F3-804F-D11B9C1B8635}|DashboardWCF2Lib\\DashboardWCF2Lib.csproj|solutionrelative:dashboardwcf2lib\\searchresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB677FDD-54B2-42F3-804F-D11B9C1B8635}|DashboardWCF2Lib\\DashboardWCF2Lib.csproj|D:\\Users\\zeyne\\source\\repos\\DashboardWCF2\\dashboardwcf2lib\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB677FDD-54B2-42F3-804F-D11B9C1B8635}|DashboardWCF2Lib\\DashboardWCF2Lib.csproj|solutionrelative:dashboardwcf2lib\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB677FDD-54B2-42F3-804F-D11B9C1B8635}|DashboardWCF2Lib\\DashboardWCF2Lib.csproj|D:\\Users\\zeyne\\source\\repos\\DashboardWCF2\\dashboardwcf2lib\\iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB677FDD-54B2-42F3-804F-D11B9C1B8635}|DashboardWCF2Lib\\DashboardWCF2Lib.csproj|solutionrelative:dashboardwcf2lib\\iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB677FDD-54B2-42F3-804F-D11B9C1B8635}|DashboardWCF2Lib\\DashboardWCF2Lib.csproj|D:\\Users\\zeyne\\source\\repos\\DashboardWCF2\\dashboardwcf2lib\\getuidlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB677FDD-54B2-42F3-804F-D11B9C1B8635}|DashboardWCF2Lib\\DashboardWCF2Lib.csproj|solutionrelative:dashboardwcf2lib\\getuidlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetUidList.cs",
+              "DocumentMoniker": "D:\\Users\\zeyne\\source\\repos\\DashboardWCF2\\DashboardWCF2Lib\\GetUidList.cs",
+              "RelativeDocumentMoniker": "DashboardWCF2Lib\\GetUidList.cs",
+              "ToolTip": "D:\\Users\\zeyne\\source\\repos\\DashboardWCF2\\DashboardWCF2Lib\\GetUidList.cs",
+              "RelativeToolTip": "DashboardWCF2Lib\\GetUidList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T08:32:35.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SearchResult.cs",
+              "DocumentMoniker": "D:\\Users\\zeyne\\source\\repos\\DashboardWCF2\\DashboardWCF2Lib\\SearchResult.cs",
+              "RelativeDocumentMoniker": "DashboardWCF2Lib\\SearchResult.cs",
+              "ToolTip": "D:\\Users\\zeyne\\source\\repos\\DashboardWCF2\\DashboardWCF2Lib\\SearchResult.cs",
+              "RelativeToolTip": "DashboardWCF2Lib\\SearchResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T12:56:32.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DashboardJson.cs",
+              "DocumentMoniker": "D:\\Users\\zeyne\\source\\repos\\DashboardWCF2\\DashboardWCF2Lib\\DashboardJson.cs",
+              "RelativeDocumentMoniker": "DashboardWCF2Lib\\DashboardJson.cs",
+              "ToolTip": "D:\\Users\\zeyne\\source\\repos\\DashboardWCF2\\DashboardWCF2Lib\\DashboardJson.cs",
+              "RelativeToolTip": "DashboardWCF2Lib\\DashboardJson.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAA7wCUAAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T17:43:04.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SearchingClass.cs",
+              "DocumentMoniker": "D:\\Users\\zeyne\\source\\repos\\DashboardWCF2\\DashboardWCF2Lib\\SearchingClass.cs",
+              "RelativeDocumentMoniker": "DashboardWCF2Lib\\SearchingClass.cs",
+              "ToolTip": "D:\\Users\\zeyne\\source\\repos\\DashboardWCF2\\DashboardWCF2Lib\\SearchingClass.cs",
+              "RelativeToolTip": "DashboardWCF2Lib\\SearchingClass.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAowDsAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T17:40:26.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Service1.cs",
+              "DocumentMoniker": "D:\\Users\\zeyne\\source\\repos\\DashboardWCF2\\DashboardWCF2Lib\\Service1.cs",
+              "RelativeDocumentMoniker": "DashboardWCF2Lib\\Service1.cs",
+              "ToolTip": "D:\\Users\\zeyne\\source\\repos\\DashboardWCF2\\DashboardWCF2Lib\\Service1.cs",
+              "RelativeToolTip": "DashboardWCF2Lib\\Service1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwAcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T09:21:28.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IService1.cs",
+              "DocumentMoniker": "D:\\Users\\zeyne\\source\\repos\\DashboardWCF2\\DashboardWCF2Lib\\IService1.cs",
+              "RelativeDocumentMoniker": "DashboardWCF2Lib\\IService1.cs",
+              "ToolTip": "D:\\Users\\zeyne\\source\\repos\\DashboardWCF2\\DashboardWCF2Lib\\IService1.cs",
+              "RelativeToolTip": "DashboardWCF2Lib\\IService1.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T09:20:52.47Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
