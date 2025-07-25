@@ -1,0 +1,24 @@
+# Ignore bin and obj folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# Build outputs
+*.exe
+*.dll
+*.pdb
+
+# Visual Studio files
+.vs/
+*.csproj.user
+
+# App config
+App.config
+
+# Others
+*.log
+*.cache
+*.db
